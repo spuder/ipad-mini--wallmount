@@ -40,10 +40,18 @@ To install power buttons (optional)
 - [charge_cable](https://www.amazon.com/gp/product/B07H4NSHS4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 
 ## :camera: Photos
+![](photos%2FIMG_3189.jpeg)
+![](photos%2FIMG_3190.jpeg)
+![](photos%2FIMG_3191.jpeg)
+![](photos%2FIMG_3193.jpeg)
+![](photos%2FIMG_3198.jpeg)
+![](photos%2FIMG_3199.jpeg)
+![](photos%2FIMG_3203.jpeg)
 ![](photos%2FWall_Mount_2022-Apr-29_06-11-04AM-000_CustomizedView9112022479.png)
 ![](photos%2FWall_Mount_2022-Apr-29_06-12-04AM-000_CustomizedView337308527.png)
 ![](photos%2FWall_Mount_2022-Apr-29_06-12-41AM-000_CustomizedView13415297563.png)
 ![](photos%2FWall_Mount_2022-Apr-29_06-14-37AM-000_CustomizedView1684544157.png)
+![](photos%2Fcropped)
 
 ---
 
