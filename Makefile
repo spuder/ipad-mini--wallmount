@@ -14,6 +14,7 @@ setup:
 	rm -f CAD/sphere.gif
 	rm -f CAD/sphere.stl
 	rm -f CAD/sphere.png
+	rm -f CAD/cube.stl.gif
 clean:
 	./CAD-scripts/clean.sh
 png:

@@ -1,26 +1,41 @@
 ---
-name: Changeme
+name: ipad mini wallmount
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
+  A wall mountable case for the ipad mini second gen (A1491)
 
-  **Do not edit README.md directly as it will be overwritten..**
+  ## Design
+
+  Holds and iPad mini. Tested with a second generation A1491 but may work with other generations
+  Uses no screws
+
+  ## Features
+
+  - Works with 90 degree and straight through charge cables
+  - Uses 1.75mm fillament as optional push buttons for volume / power
+
+
+  ## Installation
+
+  To install power buttons (optional)
+
+  1. Melt or crip one end of the push button fillament. Insert into slot holes
+  2. Trim excess fillament using diagonal cutters
+
+  ![](https://youtube.com/shorts/N_vZxDSdMrI?feature=share)
+
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution-NonCommercial # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
   year: 2022
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+  charge_cable: https://www.amazon.com/gp/product/B07H4NSHS4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+# fusion_link: https://autodesk.example.com #comment out if no fusion link
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Printables: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+  # Thingiverse: https://www.thingiverse.com/thing:xxxx
+  # Printables: https://foo.com
+  # GrabCad: https://foo.com
+  # Hackster.io: https://hackster.io/foo
+  # Hackaday: https://hackaday.io/foo
+  # Reddit: https://www.reddit.com/r/foo
+  # Github: https://github.com/foo
+  # Blog: https://foo.com
