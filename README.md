@@ -24,6 +24,12 @@ To install power buttons (optional)
 
 
 
+## :globe_with_meridians: Links
+
+
+
+- **Printables**: [https://www.printables.com/model/197763-ipad-mini-wallmount](https://www.printables.com/model/197763-ipad-mini-wallmount)
+
 ## :triangular_ruler: CAD files
 
 3d files are located in the [CAD](./CAD) directory.
@@ -37,7 +43,8 @@ To install power buttons (optional)
 
 
 ## :notebook: Resources
-- [charge_cable](https://www.amazon.com/gp/product/B07H4NSHS4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [right angle charge_cable](https://www.amazon.com/gp/product/B07H4NSHS4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+- [low profile usb charger](https://www.amazon.com/gp/product/B08ZXBSXD5/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&th=1)
 
 ## :camera: Photos
 ![](photos%2FIMG_3189.jpeg)

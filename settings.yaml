@@ -28,11 +28,12 @@ license:
   owner: Spencer Owen
   year: 2022
 resources:
-  charge_cable: https://www.amazon.com/gp/product/B07H4NSHS4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+  right angle charge_cable: https://www.amazon.com/gp/product/B07H4NSHS4/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+  low profile usb charger: https://www.amazon.com/gp/product/B08ZXBSXD5/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&th=1
 # fusion_link: https://autodesk.example.com #comment out if no fusion link
 links:
   # Thingiverse: https://www.thingiverse.com/thing:xxxx
-  # Printables: https://foo.com
+  Printables: https://www.printables.com/model/197763-ipad-mini-wallmount
   # GrabCad: https://foo.com
   # Hackster.io: https://hackster.io/foo
   # Hackaday: https://hackaday.io/foo
