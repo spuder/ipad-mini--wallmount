@@ -22,6 +22,10 @@ To install power buttons (optional)
 
 ![](https://youtube.com/shorts/N_vZxDSdMrI?feature=share)
 
+## Cad files
+
+f3z and iges files are included in this repo for ease of editing. 
+
 
 
 ## :globe_with_meridians: Links
@@ -54,6 +58,7 @@ To install power buttons (optional)
 ![](photos%2FIMG_3198.jpeg)
 ![](photos%2FIMG_3199.jpeg)
 ![](photos%2FIMG_3203.jpeg)
+![](photos%2FScreen%20Shot%202022-05-07%20at%203.38.37%20AM.png)
 ![](photos%2FWall_Mount_2022-Apr-29_06-11-04AM-000_CustomizedView9112022479.png)
 ![](photos%2FWall_Mount_2022-Apr-29_06-12-04AM-000_CustomizedView337308527.png)
 ![](photos%2FWall_Mount_2022-Apr-29_06-12-41AM-000_CustomizedView13415297563.png)
